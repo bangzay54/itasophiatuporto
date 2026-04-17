@@ -28,7 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Ita Sophiatu Rojak",
     specialty: "Voice Over & Proofreader",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "Voice Over & Proofreader lepas dengan pengalaman proofreading untuk web novel romance dan drama, dan pengisi suara di salah satu channel youtube Indonesia",
     email: "ita.s.rajak@gmail.com",
   },
   experience: [
